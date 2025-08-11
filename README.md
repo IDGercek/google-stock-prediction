@@ -71,6 +71,6 @@ Both models are implemented using PyTorch.
 
 ## Results
 
-asdBoth models perform well on the dataset with really small test losses (about 0.0002). Both models are trained, and their training and testing losses are plotted over the epochs. The plots can be found at the end of each notebook. The losses decrease significantly after the first epoch, indicating that the models are learning to predict the stock prices effectively.
+Both models perform well on the dataset with really small test losses (about 0.0002). Both models are trained, and their training and testing losses are plotted over the epochs. The plots can be found at the end of each notebook. The losses decrease significantly after the first epoch, indicating that the models are learning to predict the stock prices effectively.
 
 For detailed implementation and results, please refer to the Jupyter notebooks.
