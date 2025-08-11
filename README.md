@@ -51,7 +51,7 @@ Both models are implemented using PyTorch.
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/IDGercek/google-stock-prediction.git
     cd google-stock-prediction
     ```
 
