@@ -58,7 +58,7 @@ Both models are implemented using PyTorch.
 2.  **Install dependencies:**
     Make sure you have Python and Jupyter Notebook installed. You can install the required libraries using pip:
     ```bash
-    pip install requirements.txt
+    pip install -r requirements.txt
     ```
     If you have a CUDA-enabled GPU, you can install the GPU version of PyTorch for faster training.
 
